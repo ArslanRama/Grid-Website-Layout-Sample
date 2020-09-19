@@ -2,6 +2,7 @@
 
 * I tried to fill my web with dark colors.
 * Dark colors fit the title photography
+* It is a responsive website
   
 - This is not a complete website!
 
